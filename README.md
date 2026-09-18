@@ -236,3 +236,76 @@ PREPARAÇÃO PROFISSIONAL---
 ORIENTAÇÃO
      ↓
 PROCURA DE OPORTUNIDADES
+Refais entièrement le design de mon README GitHub pour mon projet « ACADEMIA DE COMPETÊNCIA ».
+
+Je veux un design professionnel, moderne et premium, inspiré des sites industriels et des centres de formation professionnelle.
+
+IMPORTANT :
+- Utiliser un fond 100 % noir (#000000).
+- Ne pas utiliser de fond blanc.
+- Ne pas utiliser de dégradé clair.
+- Le texte principal doit être blanc.
+- Les titres doivent être très visibles.
+- Utiliser une couleur jaune/orange de sécurité comme couleur d'accent, inspirée des machines et équipements industriels.
+- Garder une excellente lisibilité.
+- Organiser le README avec beaucoup d'espace entre les sections.
+- Utiliser des emojis professionnels avec modération.
+- Mettre « ACADEMIA DE COMPETÊNCIA » très grand au début.
+- Donner une apparence professionnelle, industrielle et moderne.
+- Le design doit être adapté à une académie qui forme des opérateurs d'empilhadeiras, machines lourdes et autres équipements professionnels.
+- Mettre en avant la formation théorique, la formation pratique, la sécurité, les compétences professionnelles et l'accompagnement vers l'emploi.
+- Ajouter des boutons professionnels pour WhatsApp, Facebook et E-mail à la fin.
+- Les boutons doivent être visibles sur le fond noir.
+- Ne pas supprimer les informations importantes du README.
+- Corriger les fautes de portugais et utiliser un portugais professionnel adapté à l'Angola.
+- Le résultat final doit être directement compatible avec GitHub Markdown.
+
+STYLE VISUEL :
+
+Fond : noir #000000
+Texte principal : blanc
+Titres : blanc
+Couleur d'accent : jaune/orange industriel
+Style : Premium / Industrial / Professional / Modern
+Ambiance : Formation professionnelle + machines + sécurité + employabilité
+
+Structure :
+
+1. GRAND TITRE :
+   ACADEMIA DE COMPETÊNCIA
+
+2. Slogan :
+   FORMAÇÃO • CAPACITAÇÃO • SEGURANÇA • EMPREGABILIDADE
+
+3. Présentation de l'académie
+
+4. Nos formations
+
+5. Formation d'Operador de Empilhadeira
+
+6. Formation pratique
+
+7. Máquinas e Equipamentos
+
+8. Segurança Profissional
+
+9. Acompanhamento dos Formandos
+
+10. Formação e Empregabilidade
+
+11. Formação para Empresas
+
+12. Nossa Missão
+
+13. Nossa Visão
+
+14. Contactos
+
+15. Boutons WhatsApp + Facebook + E-mail
+
+16. Footer :
+   © 2026 ACADEMIA DE COMPETÊNCIA — Luanda, Angola 🇦🇴
+
+Ne mets pas de fond gris clair, blanc ou bleu clair.
+
+Le rendu doit donner l'impression d'une véritable marque professionnelle de formation technique en Angola.
