@@ -1,307 +1,204 @@
-# Academia
+ACADEMIA
 transformamos conhecimento em comptências, e competências em opportunidades
-# 🎓 Academia de Formação Profissional
 
-## 🚜 Formação Profissional | Operadores de Máquinas | Segurança | Empregabilidade
+ ACADEMIA DE COMPETÊNCIA
 
-Bem-vindo à **Academia de Formação Profissional**, uma iniciativa dedicada à capacitação de jovens e profissionais que pretendem desenvolver competências técnicas para entrar ou evoluir no mercado de trabalho.
+### FORMAÇÃO PROFISSIONAL • CAPACITAÇÃO • SEGURANÇA • EMPREGABILIDADE
 
-O nosso objetivo é transformar **formação em competência, competência em oportunidade e oportunidade em carreira profissional**.
+**Prepare-se. Desenvolva competências. Construa o seu futuro profissional.**
 
----
-
-## 🎯 Sobre a Academia
-
-A nossa Academia oferece formação profissional orientada para o mercado de trabalho, com foco em **equipamentos, máquinas, segurança operacional e desenvolvimento profissional**.
-
-Combinamos conhecimentos **teóricos e práticos**, preparando os nossos formandos para compreender, utilizar e operar equipamentos de forma responsável e segura.
-
-### O nosso compromisso
-
-> **Formar profissionais preparados para trabalhar com competência, responsabilidade e segurança.**
+</div>
 
 ---
 
-# 🚜 Curso de Operador de Empilhadeira
+<div align="center">
 
-A formação de Operador de Empilhadeira prepara os participantes para compreender os principais componentes do equipamento, realizar verificações antes da operação, movimentar cargas e executar manobras com segurança.
+<img src="https://www.all-in-dienstleistungen.de/images/blog/staplerschein-machen-gabelstapler-flurfoerderzeuge-ausbildung/stapler-ausbildung-ablauf.png" width="850">
 
-### 📚 Principais conteúdos
+</div>
 
-- Introdução às empilhadeiras
-- Tipos de empilhadeiras e equipamentos
-- Principais componentes da máquina
-- Funcionamento básico
-- Inspeção pré-operacional
+# 🏆 Sobre a Academia
+
+A **ACADEMIA DE COMPETÊNCIA** é uma instituição dedicada à **formação e capacitação profissional**, com foco no desenvolvimento de competências técnicas e práticas para o mercado de trabalho.
+
+A nossa proposta combina:
+
+- 📚 Conhecimento teórico
+- 🛠️ Formação prática
+- 🦺 Segurança operacional
+- 👨‍🏫 Acompanhamento profissional
+- 📄 Preparação para o mercado de trabalho
+- 💼 Orientação na procura de oportunidades profissionais
+
+> **Formar pessoas. Desenvolver competências. Preparar profissionais.**
+
+---
+
+# 🚜 Nossas Formações
+
+A Academia oferece formação orientada para diferentes áreas profissionais e equipamentos utilizados no mercado.
+
+## 🚧 Operador de Empilhadeira
+
+Formação destinada a pessoas que pretendem desenvolver competências para trabalhar com **empilhadeiras e equipamentos de movimentação de cargas**.
+
+### Conteúdos da formação
+
+- Introdução à empilhadeira
+- Tipos de empilhadeiras
+- Componentes principais
+- Funcionamento do equipamento
+- Inspeção antes da operação
 - Check-list de segurança
-- Capacidade e limite de carga
+- Capacidade de carga
 - Centro de gravidade
-- Triângulo de estabilidade
-- Diagrama de carga
-- Técnicas de condução
-- Manobras e circulação
-- Elevação e descida de cargas
-- Empilhamento e desempilhamento
+- Estabilidade da máquina
 - Movimentação de cargas
-- Segurança no trabalho
-- Identificação de riscos
+- Elevação e descida de cargas
+- Empilhamento
+- Desempilhamento
+- Manobras
+- Circulação em áreas de trabalho
+- Segurança do operador
 - Prevenção de acidentes
-- Cuidados básicos e manutenção preventiva
-- Boas práticas na operação
-
-A combinação entre teoria e prática é utilizada em diversos programas de formação de operadores de empilhadeira. :contentReference[oaicite:1]{index=1}
+- Cuidados básicos com o equipamento
 
 ---
 
-# 🏗️ Formação em Máquinas e Equipamentos
+<div align="center">
 
-Além da empilhadeira, a Academia poderá disponibilizar formação para diferentes equipamentos utilizados nos setores:
+<img src="https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-1658/1760150676110_image_1760150676034.jpeg" width="700">
 
-- 🚜 Empilhadeira
-- 🏗️ Grua
-- 🚧 Escavadeira / Giratória
-- 🚜 Pá carregadeira
-- 🚜 Retroescavadeira
-- 🚜 Bulldozer
-- 🚛 Dumper
-- 🏗️ Equipamentos de elevação de cargas
-- 🪢 Rigging & Slinging
-- ⚙️ Outros equipamentos profissionais
+**Formação prática de operador de empilhadeira**
 
-> **Nota:** A disponibilidade de cada curso depende das máquinas, instrutores e estrutura prática disponíveis em cada turma.
+</div>
 
 ---
 
-# 🦺 Segurança em Primeiro Lugar
+# 🏗️ Máquinas e Equipamentos
 
-A segurança faz parte de todas as nossas formações.
+A Academia também pode desenvolver formações relacionadas à operação de diferentes máquinas utilizadas na construção, indústria, logística e outros setores.
+
+### 🚜 Equipamentos
+
+- Empilhadeira
+- Escavadeira / Giratória
+- Pá carregadeira
+- Retroescavadeira
+- Bulldozer
+- Dumper
+- Equipamentos de elevação
+- Movimentação de cargas
+- Outros equipamentos profissionais
+
+---
+
+<div align="center">
+
+<img src="https://www.theconstructionindex.co.uk/img-cache/e4dbcf517056551bc6f6a451628a6817/1680x1120.546875_1294762967_4597735733-d90a152e95-b.jpg" width="700">
+
+**Formação prática com máquina pesada**
+
+</div>
+
+---
+
+# 🛠️ Formação Teórica + Prática
+
+Na **ACADEMIA DE COMPETÊNCIA**, procuramos aproximar a formação das situações encontradas no ambiente profissional.
+
+## 📚 Parte Teórica
+
+O formando aprende:
+
+- Funcionamento das máquinas
+- Componentes e comandos
+- Procedimentos de segurança
+- Capacidade de carga
+- Riscos profissionais
+- Regras de operação
+- Prevenção de acidentes
+
+## 🏗️ Parte Prática
+
+Durante a formação prática, o formando pode desenvolver competências relacionadas com:
+
+- Inspeção do equipamento
+- Preparação da máquina
+- Condução
+- Manobras
+- Movimentação de cargas
+- Elevação
+- Transporte
+- Posicionamento
+- Empilhamento
+- Operação segura
+
+---
+
+<div align="center">
+
+<img src="https://www.kobelco-kyoshu.com/assets/img/20th/top/main_slide_02_01.jpg" width="700">
+
+**Acompanhamento do formando durante a operação**
+
+</div>
+
+---
+
+# 🦺 Segurança Profissional
+
+A segurança é uma parte fundamental das nossas formações.
 
 Os formandos são orientados sobre:
 
-- Utilização correta dos EPI;
-- Inspeção dos equipamentos;
-- Identificação de riscos;
-- Procedimentos de segurança;
-- Circulação em áreas de trabalho;
-- Movimentação segura de cargas;
-- Prevenção de acidentes;
-- Responsabilidade do operador.
-
-A formação profissional de empilhadores normalmente inclui segurança, estabilidade, inspeção e técnicas de condução como componentes fundamentais. :contentReference[oaicite:2]{index=2}
-
----
-
-# 🎓 Formação Teórica + Prática
-
-A nossa metodologia procura aproximar o formando das situações encontradas no ambiente profissional.
-
-### 📖 Formação Teórica
-
-O formando aprende os conceitos fundamentais:
-
-- Funcionamento do equipamento;
-- Componentes;
-- Segurança;
-- Capacidade de carga;
-- Estabilidade;
-- Procedimentos operacionais;
-- Prevenção de acidentes.
-
-### 🛠️ Formação Prática
-
-Na componente prática, o formando desenvolve competências através de:
-
-- Inspeção do equipamento;
-- Arranque e preparação;
-- Condução;
-- Manobras;
-- Aproximação às cargas;
-- Elevação;
-- Transporte;
-- Empilhamento;
-- Desempilhamento;
-- Circulação em espaços delimitados.
+✅ Utilização correta dos equipamentos de proteção  
+✅ Inspeção das máquinas  
+✅ Identificação de riscos  
+✅ Procedimentos de segurança  
+✅ Circulação no local de trabalho  
+✅ Movimentação segura de cargas  
+✅ Prevenção de acidentes  
+✅ Responsabilidade do operador  
 
 ---
 
 # 👨‍🏫 Acompanhamento dos Formandos
 
-A nossa missão não termina no último dia de formação.
+A nossa missão não termina no final do curso.
 
-A Academia procura acompanhar o formando durante a sua evolução profissional.
+A **ACADEMIA DE COMPETÊNCIA** procura acompanhar o formando no seu desenvolvimento profissional.
 
 ### 🤝 O nosso acompanhamento inclui:
 
-✅ Orientação profissional  
-✅ Apoio na preparação para o mercado de trabalho  
-✅ Orientação na elaboração do CV  
-✅ Preparação para entrevistas  
-✅ Orientação na procura de oportunidades  
-✅ Divulgação de oportunidades profissionais quando disponíveis  
-✅ Acompanhamento após a formação  
-✅ Orientação para desenvolvimento profissional  
+- Orientação profissional
+- Preparação do currículo
+- Organização das competências profissionais
+- Orientação para candidaturas
+- Preparação para entrevistas
+- Orientação na procura de oportunidades
+- Divulgação de oportunidades disponíveis
+- Acompanhamento profissional
+
+> **O objetivo é preparar o formando para entrar no mercado de trabalho com mais conhecimento, confiança e competências.**
 
 ---
 
-# 💼 Formação + Empregabilidade
-
-Acreditamos que uma formação profissional deve preparar o formando para muito mais do que simplesmente receber um certificado.
-
-Por isso, trabalhamos para aproximar os nossos formandos do mercado de trabalho.
-
-### 🚀 O nosso objetivo
-
-**Formar → Preparar → Orientar → Acompanhar → Aproximar do mercado de trabalho**
-
-A Academia ajuda o formando a compreender:
-
-- Onde procurar emprego;
-- Como preparar um CV profissional;
-- Como apresentar as suas competências;
-- Como candidatar-se às empresas;
-- Como preparar-se para uma entrevista;
-- Como continuar a desenvolver as suas competências.
-
-> ⚠️ O apoio à empregabilidade não representa garantia de contratação. O objetivo é preparar e orientar o formando para aumentar a sua preparação profissional.
-
----
-
-# 🏢 Para Empresas
-
-Também podemos desenvolver soluções de formação direcionadas para empresas.
-
-### Serviços empresariais
-
-- Formação de operadores;
-- Reciclagem profissional;
-- Aperfeiçoamento de operadores;
-- Formação em segurança;
-- Formação para equipas;
-- Formação adaptada às necessidades da empresa;
-- Acompanhamento técnico.
-
-As formações de operadores podem também ser estruturadas para empresas e realizadas de acordo com as necessidades operacionais. :contentReference[oaicite:3]{index=3}
-
----
-
-# 📜 Certificação
-
-Após a conclusão da formação, os participantes poderão receber documentação/certificação correspondente à formação realizada, de acordo com a modalidade e os requisitos da Academia.
-
-> **Importante:** O reconhecimento oficial de um certificado depende da entidade certificadora e do enquadramento legal aplicável. Não apresentamos uma certificação como "reconhecida" sem a devida autorização.
-
----
-
-# 🌟 Porquê escolher a nossa Academia?
-
-### 🎯 Formação orientada para o mercado
-
-Os conteúdos são pensados para desenvolver competências úteis no ambiente profissional.
-
-### 🛠️ Teoria + prática
-
-O formando aprende os conceitos e procura aplicá-los através de exercícios práticos.
-
-### 👨‍🏫 Acompanhamento profissional
-
-O formando recebe orientação durante o seu percurso de aprendizagem.
-
-### 💼 Apoio à empregabilidade
-
-Ajudamos o formando a preparar-se para procurar oportunidades profissionais.
-
-### 🦺 Segurança
-
-A segurança operacional é uma prioridade na formação.
-
-### 🚀 Desenvolvimento profissional
-
-O nosso objetivo é ajudar cada formando a construir uma carreira com competências reais.
-
----
-
-# 📈 O nosso propósito
-
-Queremos contribuir para o desenvolvimento profissional em Angola através da formação de pessoas qualificadas para diferentes áreas de atividade.
-
-## A nossa visão
-
-> **Ser uma referência na formação profissional e na preparação de operadores e técnicos para o mercado de trabalho.**
-
-## A nossa missão
-
-> **Capacitar pessoas através de formação técnica, prática, segurança e acompanhamento profissional, criando melhores condições para a sua integração no mercado de trabalho.**
-
----
-
-# 📍 Localização
-
-**Luanda, Angola 🇦🇴**
-
-📍 Local: `Adicionar localização`
-
-📞 Telefone: `Adicionar contacto`
-
-📱 WhatsApp: `Adicionar WhatsApp`
-
-📧 E-mail: `Adicionar e-mail`
-
-🌐 Website: `Adicionar website`
-
----
-
-# 📲 Inscrições
-
-Interessado em fazer uma formação profissional?
-
-Entre em contacto connosco para obter informações sobre:
-
-- Próximas turmas;
-- Cursos disponíveis;
-- Horários;
-- Duração;
-- Requisitos;
-- Investimento;
-- Formação prática;
-- Certificação;
-- Apoio à empregabilidade.
-
-### 🚀 Prepare-se hoje para as oportunidades de amanhã.
-
-**Academia de compentência Profissional**
-
-> **Formação que prepara. Competência que transforma.**
-
----
-
-## 🔧 Tecnologias utilizadas neste projeto
-
-Este projeto pode ser desenvolvido utilizando:
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Design responsivo
-- SEO
-- Integração com WhatsApp
-- Formulário de contacto
-
----
-
-## 📱 Design Responsivo
-
-O website foi pensado para funcionar em diferentes dispositivos:
-
-💻 Computadores  
-📱 Smartphones  
-📲 Tablets  
-
----
-
-## 📄 Licença
-
-Este projeto é propriedade da *Academia de compentência Profissional**.
-
-Todos os direitos reservados.
+# 💼 Formação e Empregabilidade
+
+Uma formação profissional deve preparar o formando para enfrentar situações reais do mercado de trabalho.
+
+Por isso, trabalhamos com uma abordagem:
+
+```text
+FORMAÇÃO
+     ↓
+CAPACITAÇÃO
+     ↓
+PRÁTICA
+     ↓
+PREPARAÇÃO PROFISSIONAL
+     ↓
+ORIENTAÇÃO
+     ↓
+PROCURA DE OPORTUNIDADES
