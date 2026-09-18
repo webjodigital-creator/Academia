@@ -1,5 +1,3 @@
-ACADEMIA
-transformamos conhecimento em comptências, e competências em opportunidades
 
  ACADEMIA DE COMPETÊNCIA
 
@@ -197,7 +195,43 @@ CAPACITAÇÃO
      ↓
 PRÁTICA
      ↓
-PREPARAÇÃO PROFISSIONAL
+PREPARAÇÃO PROFISSIONAL---
+
+<div align="center">
+
+# 📞 ENTRE EM CONTACTO CON A ACADEMIA
+
+
+
+### 📍 Localização
+**Luanda, Angola 🇦🇴**
+
+### 📱 WhatsApp
+**+244 942418897**
+
+### 📘 Facebook
+**Academia de Competência**
+
+### 📧 E-mail
+**academiadecompetencia4@gmial.com**
+
+</div>
+
+---
+
+# 🚀 ACADEMIA DE COMPETÊNCIA
+
+### Formação • Competência • Segurança • Empregabilidade
+
+**Prepare-se hoje. Construa o seu futuro profissional. 🇦🇴**
+
+---
+
+<div align="center">
+
+© 2026 **ACADEMIA DE COMPETÊNCIA** — Todos os direitos reservados.
+
+</div>
      ↓
 ORIENTAÇÃO
      ↓
