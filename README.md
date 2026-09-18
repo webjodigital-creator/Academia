@@ -1,2 +1,2 @@
 # Academia
-transformamos conhecimento em comptências, e competências em opportunudades
+transformamos conhecimento em comptências, e competências em opportunidades
